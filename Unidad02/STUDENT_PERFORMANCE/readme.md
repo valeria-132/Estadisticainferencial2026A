@@ -1,6 +1,3 @@
-markdown
-```
-
 # Student Performance Factors
 
 ## About Dataset
